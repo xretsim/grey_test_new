@@ -1,0 +1,22 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	    "type":"png",
+	    "defName":"GIRLB_BASE",
+	    "file":"images/girlb_base.png"
+	   },
+	   {
+	    "type":"png",
+	    "defName":"GIRLB_1",
+	    "file":"images/girlb_1.png"
+	   },
+	   {
+	    "type":"png",
+	    "defName":"GIRLB_2",
+	    "file":"images/girlb_2.png"
+	   }
+	   	  ]
+}
+
